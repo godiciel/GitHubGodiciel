@@ -1,4 +1,3 @@
-GitPlatforms
-============
-This repository will be used for windows platform developpemnt
-Dev.
+godiciel/GitHubGodiciel
+=======================
+This folder will be used for Windows's projects development.
