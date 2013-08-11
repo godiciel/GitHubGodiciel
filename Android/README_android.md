@@ -1,3 +1,3 @@
-GitPlatforms
-============
-This folrder will be used for Android project development.
+godiciel/GitHubGodiciel
+=======================
+This folder will be used for Android's projects development.
