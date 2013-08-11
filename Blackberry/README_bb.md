@@ -1,4 +1,3 @@
-GitPlatforms
-============
-This repository will be used for Blackberry platform developpemnt
-Dev.
+godiciel/GitHubGodiciel
+=======================
+This folder will be used for Black Berry 's projects development.
