@@ -1,1 +1,5 @@
 .DS_Store
+.meta*
+.project
+.classpath
+.settings
