@@ -1,4 +1,3 @@
-GitPlatforms
-============
-This repository will be used for MacOSX platform developpemnt
-Dev.
+godiciel/GitHubGodiciel
+=======================
+This folder will be used for Mac OSX's projects development.
