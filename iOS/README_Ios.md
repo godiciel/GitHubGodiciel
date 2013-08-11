@@ -1,3 +1,3 @@
-GitPlatforms
-============
-This repository will be used for iOS Project development.
+godiciel/GitHubGodiciel
+=======================
+This folder will be used for iOS's projects development.
