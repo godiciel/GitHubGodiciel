@@ -1,7 +1,5 @@
 .DS_Store
 .meta*
-.project
 .classpath
 .setting
-.settings
 /bin
