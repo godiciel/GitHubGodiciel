@@ -2,4 +2,6 @@
 .meta*
 .project
 .classpath
+.setting
 .settings
+/bin
