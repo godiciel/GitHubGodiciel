@@ -4,10 +4,8 @@
     <string name="app_name">HelloAndroidworldGit</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Bonjour release a bis</string>
-<<<<<<< HEAD
     <string name="iMac">iMac 27s</string>
-=======
     <string name="mbp">Mac Book Pro</string>
->>>>>>> origin/mbp-locale
+
 
 </resources>
