@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Alire... important
-voci un ajout
-et voic pour Gitx
-=======
-Alire... important
->>>>>>> parent of ca2b4c7... Ajout de texte
+Nouveau a lire
