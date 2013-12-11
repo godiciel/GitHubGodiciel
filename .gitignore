@@ -4,3 +4,4 @@
 .setting
 /bin
 *.cache
+/.project
